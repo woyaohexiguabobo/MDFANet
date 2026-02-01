@@ -1,6 +1,6 @@
 # Enhanced Medical Image Segmentation via Multi-Branch Deformable Convolutional Networks
 
-
+**Notice:** This code repository is the official implementation of the manuscript submitted to *The Visual Computer* journal.
 
 Please run to get the code:
 ```shell
