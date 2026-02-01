@@ -1,6 +1,6 @@
 # Enhanced Medical Image Segmentation via Multi-Branch Deformable Convolutional Networks
 
-**You also can read [Chinese version](docs/README-CN.md)**
+
 
 Please run to get the code:
 ```shell
